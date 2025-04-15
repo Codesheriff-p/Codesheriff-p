@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Amaeze</h1>
-<h3 align="center">A passionate Software developer from Nigeria</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesheriff-p&label=Profile%20views&color=0e75b6&style=flat" alt="codesheriff-p" /> </p>
 
